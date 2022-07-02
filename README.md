@@ -3,6 +3,7 @@
 Save the " projectQrReader.py "
 
 Install the required packages in the parent folder fy following commands in the terminal :
+<\n>
 <code>
 pip update
 </code>
